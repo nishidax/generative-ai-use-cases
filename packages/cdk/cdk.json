@@ -51,7 +51,7 @@
     "videoGenerationModelIds": ["amazon.nova-reel-v1:0"],
     "endpointNames": [],
     "agentEnabled": true,
-    "searchAgentEnabled": true,
+    "searchAgentEnabled": false,
     "searchApiKey": "",
     "agents": [],
     "inlineAgents": false,
